@@ -1,0 +1,92 @@
+body{
+    width: 1000px;
+    height: 1000px;
+}
+
+.casilla{
+    width: 1rem;
+    display: flex;
+    color:#ffffff;
+    font-family: 'Roboto';
+}
+
+.casillas{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 500px;
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 5rem;
+    margin-left: 31rem;
+    margin-top: 15rem;
+
+    
+}
+
+.imagen1{
+position: absolute;
+    margin-top: 700px;
+margin-left: 250px;
+display: none;
+}
+.imagen2{
+    position: absolute;
+    margin-left: 445px;
+    margin-top: 6px;
+    display: none;
+}
+.imagen3{
+    position: absolute;
+    margin-left: 458px;
+    display: none;
+}
+.imagen4{
+    position: absolute;
+    margin-left: 855px;
+    margin-top: 7px;
+    display: none;
+}
+.imagen5{
+    position: absolute;
+    margin-left: 791px;
+    margin-top: 116px;
+    display: none;
+}
+.imagen6{
+    position: absolute;
+    margin-left: 862px;
+    margin-top: 240px;
+    display: none;
+}
+.imagen7{
+    position: absolute;
+    margin-left: 764px;
+    margin-top: 266px;
+    display: none;
+}
+.imagen8{
+    position: absolute;
+    margin-top: 283px;
+    margin-left: 870px;
+    display: none;
+}
+.imagen9{
+    position: absolute;
+    margin-left: 736px;
+    margin-top: 403px;
+    display: none;
+}
+
+.imagen10{
+    position: absolute;
+    margin-left: 866px;
+    margin-top: 411px;
+    display: none;
+}
+
+.dibujo{
+    margin-top: 60px;
+    
+}
